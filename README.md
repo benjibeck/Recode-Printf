@@ -1,4 +1,4 @@
-# ft_printf
+# Recode Printf
 
 Resources:
 Va args usage : http://www.cplusplus.com/reference/cstdarg/va_copy/
